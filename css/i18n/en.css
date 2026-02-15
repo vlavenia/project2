@@ -141,7 +141,7 @@
 
 
 /* Model Tree */
-:lang(en) .i18n-modeltree:after {content: "Model Tree Achi"}
+:lang(en) .i18n-modeltree:after {content: "Model Tree"}
 :lang(en) .i18n-model_content:after {content: "Model Content"}
 :lang(en) .i18n-strategy:after {content: "Strategy"}
 :lang(en) .i18n-business_layer:after {content: "Business"}
